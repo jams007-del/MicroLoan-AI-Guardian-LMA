@@ -3,7 +3,7 @@
 MicroLoan-AI-Guardian-LMA adalah aplikasi contoh untuk manajemen pinjaman kecil dengan sinkronisasi realtime menggunakan Firebase.
 
 Demo (Firebase):  
-https://9000-firebase-studio-1766117780432.cluster-yylgzpipxrar4v4a72liastuqy.cloudworkstations.dev
+https://studio.firebase.google.com/studio-4835519424
 
 ## Fitur utama
 - Sinkronisasi realtime menggunakan Firebase Realtime Database / Firestore  
